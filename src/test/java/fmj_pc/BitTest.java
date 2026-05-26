@@ -26,7 +26,6 @@ public class BitTest {
      * short
      * @param i
      * @return
-     * @see {@link #byteToShort()}
      */
     public static byte[] shortToByte(short i) {  
         byte[] targets = new byte[2];  
@@ -57,7 +56,6 @@ public class BitTest {
      * @param bytes
      * @param off
      * @return
-     * @see {@link #shortToByte()}
      */
     public static short byteToShort(byte[] bytes, int off) {  
         int b0 = bytes[off] & 0xFF;  
