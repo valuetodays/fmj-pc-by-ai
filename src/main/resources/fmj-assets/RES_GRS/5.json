@@ -1,0 +1,181 @@
+{
+  "type": 5,
+  "goods": [
+  {
+    "type": 5,
+    "index": 1,
+    "enable": 1,
+    "sumRound": 0,
+    "imageIndex": 1,
+    "name": "布护腕",
+    "buyPrice": 120,
+    "sellPrice": 60,
+    "description": "衣服袖子上的装饰品，可以起到将人体热气保留在衣服内的效果，能增加保暖功能。防御+2。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 2,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 5,
+    "index": 2,
+    "enable": 1,
+    "sumRound": 0,
+    "imageIndex": 2,
+    "name": "铁护腕",
+    "buyPrice": 800,
+    "sellPrice": 400,
+    "description": "纯铁打造的腕上防具，只是会影响身法。防御+12、身法-3。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 12,
+      "atk": 0,
+      "lingli": 0,
+      "speed": -3,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 5,
+    "index": 3,
+    "enable": 1,
+    "sumRound": 0,
+    "imageIndex": 3,
+    "name": "雕龙护腕",
+    "buyPrice": 1800,
+    "sellPrice": 900,
+    "description": "装饰的不错的金护腕。防御+10。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 10,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 5,
+    "index": 4,
+    "enable": 1,
+    "sumRound": 0,
+    "imageIndex": 4,
+    "name": "避血手腕",
+    "buyPrice": 3200,
+    "sellPrice": 1600,
+    "description": "不能见到鲜血，不然会激起它的魔性。攻击+10、防御+24、灵力+4。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 24,
+      "atk": 10,
+      "lingli": 4,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 5,
+    "index": 5,
+    "enable": 6,
+    "sumRound": 0,
+    "imageIndex": 5,
+    "name": "赤镯",
+    "buyPrice": 200,
+    "sellPrice": 100,
+    "description": "红布缝制的护腕。防御+4。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 4,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 5,
+    "index": 6,
+    "enable": 6,
+    "sumRound": 0,
+    "imageIndex": 6,
+    "name": "玉镯",
+    "buyPrice": 950,
+    "sellPrice": 425,
+    "description": "普通的玉镯子。防御+10。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 10,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 5,
+    "index": 7,
+    "enable": 6,
+    "sumRound": 0,
+    "imageIndex": 7,
+    "name": "飞天镯",
+    "buyPrice": 2000,
+    "sellPrice": 1000,
+    "description": "用飞天白玉做成的镯子。防御+16、吉运+4。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 16,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 4
+    }
+  },
+  {
+    "type": 5,
+    "index": 8,
+    "enable": 6,
+    "sumRound": 0,
+    "imageIndex": 8,
+    "name": "吸灵镯",
+    "buyPrice": 3800,
+    "sellPrice": 1900,
+    "description": "会吸食佩带者的灵气，转化为身法和吉运的镯子。防御+8、真气上限-10、身法+10、吉运+10。",
+    "eventId": 0,
+    "data": {
+      "mpMax": -10,
+      "hpMax": 0,
+      "def": 8,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 10,
+      "bitEffect": 0,
+      "luck": 10
+    }
+  }
+  ]
+}

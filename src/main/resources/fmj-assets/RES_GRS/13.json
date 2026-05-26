@@ -1,0 +1,20 @@
+{
+  "type": 13,
+  "goods": [
+  {
+    "type": 13,
+    "index": 1,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 1,
+    "name": "引路石",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "当你在迷宫中迷路时，它可一帮你回到起始点。",
+    "eventId": 2016,
+    "data": {
+      "_note": "no extra data"
+    }
+  }
+  ]
+}

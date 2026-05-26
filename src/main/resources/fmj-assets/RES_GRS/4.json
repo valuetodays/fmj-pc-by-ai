@@ -1,0 +1,313 @@
+{
+  "type": 4,
+  "goods": [
+  {
+    "type": 4,
+    "index": 1,
+    "enable": 15,
+    "sumRound": 0,
+    "imageIndex": 1,
+    "name": "披风",
+    "buyPrice": 160,
+    "sellPrice": 80,
+    "description": "挡风御寒的东西。防御+2。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 2,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 2,
+    "enable": 5,
+    "sumRound": 0,
+    "imageIndex": 2,
+    "name": "肩甲",
+    "buyPrice": 400,
+    "sellPrice": 200,
+    "description": "用于护两肩的铠甲。防御+6。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 6,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 3,
+    "enable": 1,
+    "sumRound": 0,
+    "imageIndex": 3,
+    "name": "青铜铠",
+    "buyPrice": 840,
+    "sellPrice": 420,
+    "description": "防御效果不错的铠甲，只是重量可不轻呀！穿上去一定很笨重。防御+12、身法-7。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 12,
+      "atk": 0,
+      "lingli": 0,
+      "speed": -7,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 4,
+    "enable": 2,
+    "sumRound": 0,
+    "imageIndex": 4,
+    "name": "软蛟披风",
+    "buyPrice": 1200,
+    "sellPrice": 600,
+    "description": "利用蛟龙的皮制作成的披风，防御效果不错。防御+12。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 12,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 5,
+    "enable": 1,
+    "sumRound": 0,
+    "imageIndex": 5,
+    "name": "铁鳞甲",
+    "buyPrice": 2000,
+    "sellPrice": 1000,
+    "description": "以鱼鳞形甲片编缀而成的铠甲。防御+18、身法-4。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 18,
+      "atk": 0,
+      "lingli": 0,
+      "speed": -4,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 6,
+    "enable": 6,
+    "sumRound": 0,
+    "imageIndex": 6,
+    "name": "金钢肌",
+    "buyPrice": 2200,
+    "sellPrice": 1100,
+    "description": "以稀有的上等金钢铁铸造而成。防御+19。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 19,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 7,
+    "enable": 1,
+    "sumRound": 0,
+    "imageIndex": 7,
+    "name": "圣斗甲",
+    "buyPrice": 4800,
+    "sellPrice": 2400,
+    "description": "此甲以一张血汗宝马的皮制成。防御+28。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 28,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 8,
+    "enable": 6,
+    "sumRound": 0,
+    "imageIndex": 8,
+    "name": "青雷战衣",
+    "buyPrice": 5600,
+    "sellPrice": 2600,
+    "description": "以十张同兽龄青蛇的皮制成，柔软灵活。防御+32。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 32,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 9,
+    "enable": 6,
+    "sumRound": 0,
+    "imageIndex": 8,
+    "name": "圣洁披风",
+    "buyPrice": 10000,
+    "sellPrice": 5000,
+    "description": "以菊黄色的雄鹰的羽毛编织成的。防御+32、灵力+16。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 32,
+      "atk": 0,
+      "lingli": 16,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 10,
+    "enable": 1,
+    "sumRound": 0,
+    "imageIndex": 10,
+    "name": "御灵道袍",
+    "buyPrice": 12000,
+    "sellPrice": 6000,
+    "description": "法力高强的道士所穿的外袍。防御+31、灵力+16。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 31,
+      "atk": 0,
+      "lingli": 16,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 11,
+    "enable": 1,
+    "sumRound": 0,
+    "imageIndex": 11,
+    "name": "神龙披风",
+    "buyPrice": 0,
+    "sellPrice": 15000,
+    "description": "相传是李天王未登天庭以前穿过的，带有他的神气。防御+66、灵力+15。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 66,
+      "atk": 0,
+      "lingli": 15,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 12,
+    "enable": 2,
+    "sumRound": 0,
+    "imageIndex": 12,
+    "name": "凤纹披风",
+    "buyPrice": 0,
+    "sellPrice": 12000,
+    "description": "相传为织女缝织的披风，绣凤织锦，光彩夺目。防御+52、灵力+15。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 52,
+      "atk": 0,
+      "lingli": 15,
+      "speed": 0,
+      "bitEffect": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 13,
+    "enable": 2,
+    "sumRound": 0,
+    "imageIndex": 13,
+    "name": "芦藤雌甲",
+    "buyPrice": 0,
+    "sellPrice": 10000,
+    "description": "相传为鲁班用云南能避百毒的白芦所造，共有雌雄两件，这件为雌的。防御+3，避毒。",
+    "eventId": 2000,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 3,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 8,
+      "luck": 0
+    }
+  },
+  {
+    "type": 4,
+    "index": 14,
+    "enable": 1,
+    "sumRound": 0,
+    "imageIndex": 14,
+    "name": "芦藤雄甲",
+    "buyPrice": 0,
+    "sellPrice": 10000,
+    "description": "相传为鲁班用云南能避百毒的白芦所造，共有雌雄两件，这件为雄的。防御+3，避毒。",
+    "eventId": 2001,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 3,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "bitEffect": 8,
+      "luck": 0
+    }
+  }
+  ]
+}

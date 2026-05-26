@@ -1,0 +1,491 @@
+{
+  "type": 9,
+  "goods": [
+  {
+    "type": 9,
+    "index": 1,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 1,
+    "name": "两面针",
+    "buyPrice": 50,
+    "sellPrice": 25,
+    "description": "想止血别忘了它呀，“据广告宣传”，效果不错。恢复生命50。",
+    "eventId": 0,
+    "data": {
+      "hp": 50,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 2,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 2,
+    "name": "青阴君",
+    "buyPrice": 150,
+    "sellPrice": 75,
+    "description": "生长于华山悬崖陡壁之间，对阴阳失调败心火有奇效。hp+150。",
+    "eventId": 0,
+    "data": {
+      "hp": 150,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 3,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 3,
+    "name": "玉蓝草",
+    "buyPrice": 333,
+    "sellPrice": 111,
+    "description": "生长于沙漠之中、极为罕见的一种植物，可治疗刀伤、剑伤、砸伤等多种外伤。hp+280。",
+    "eventId": 0,
+    "data": {
+      "hp": 280,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 4,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 4,
+    "name": "赤玉断续膏",
+    "buyPrice": 780,
+    "sellPrice": 360,
+    "description": "颜色赤黄透明如玉、可治疗骨头损伤的一种药。Hp+450。",
+    "eventId": 0,
+    "data": {
+      "hp": 450,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 5,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 5,
+    "name": "紫竹符",
+    "buyPrice": 1000,
+    "sellPrice": 500,
+    "description": "南海观音在紫竹林书写的灵符、带有紫竹之灵气。hp+700。",
+    "eventId": 0,
+    "data": {
+      "hp": 700,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 6,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 6,
+    "name": "九正墨玉丹",
+    "buyPrice": 1500,
+    "sellPrice": 825,
+    "description": "练隔空取物大法时，为了打通全身经脉所特制的一种黑色药丸。Hp+1000。",
+    "eventId": 0,
+    "data": {
+      "hp": 1000,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 7,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 7,
+    "name": "地补符",
+    "buyPrice": 2000,
+    "sellPrice": 1000,
+    "description": "借助大地母性的力量来疗伤。全体hp+300。",
+    "eventId": 0,
+    "data": {
+      "hp": 300,
+      "mp": 0,
+      "aniIndex": 11,
+      "bitMask": 16
+    }
+  },
+  {
+    "type": 9,
+    "index": 8,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 8,
+    "name": "青仙果",
+    "buyPrice": 220,
+    "sellPrice": 110,
+    "description": "产于塞外的一中野果，可以清火解毒。Mp+36。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 36,
+      "aniIndex": 3,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 9,
+    "index": 9,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 9,
+    "name": "回神丹",
+    "buyPrice": 200,
+    "sellPrice": 100,
+    "description": "提神醒脑、养脑养神的药丸。Mp+50。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 50,
+      "aniIndex": 3,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 10,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 10,
+    "name": "菊花酒",
+    "buyPrice": 4800,
+    "sellPrice": 240,
+    "description": "撒点菊花在酒中，保存十年而成。Mp+110。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 110,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 11,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 11,
+    "name": "魔王甲",
+    "buyPrice": 750,
+    "sellPrice": 325,
+    "description": "周身青黑色，极其难看的一种甲虫，但可增加真气。Mp+250。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 250,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 12,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 12,
+    "name": "飘仙果",
+    "buyPrice": 120,
+    "sellPrice": 600,
+    "description": "花果山的遗种，后流落蓬莱岛，种出来的果子。Mp+450。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 450,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 13,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 13,
+    "name": "西域奇糯",
+    "buyPrice": 2200,
+    "sellPrice": 1100,
+    "description": "产于西藏的一种糯米。Mp+800。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 800,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 14,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 14,
+    "name": "紫荦杉",
+    "buyPrice": 3200,
+    "sellPrice": 1600,
+    "description": "塞北药王‘笑天下’的独门秘药，治疗精神病有奇效。真气补满。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 1000,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 15,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 15,
+    "name": "黑狐甲",
+    "buyPrice": 3600,
+    "sellPrice": 1800,
+    "description": "人为饲养的一种小甲虫，非常有灵气。全体Mp+240。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 240,
+      "aniIndex": 11,
+      "bitMask": 16
+    }
+  },
+  {
+    "type": 9,
+    "index": 16,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 16,
+    "name": "茶叶蛋",
+    "buyPrice": 35,
+    "sellPrice": 10,
+    "description": "不知道是谁发明的煮鸡蛋的方法所煮的鸡蛋，挺好吃的。HpMp+10。",
+    "eventId": 0,
+    "data": {
+      "hp": 10,
+      "mp": 10,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 17,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 17,
+    "name": "烤鹿肉",
+    "buyPrice": 220,
+    "sellPrice": 110,
+    "description": "以松木木碳火熏烤的上等鹿肉，可恢复体力。HpMp+45。",
+    "eventId": 0,
+    "data": {
+      "hp": 45,
+      "mp": 45,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 18,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 18,
+    "name": "田七精",
+    "buyPrice": 240,
+    "sellPrice": 120,
+    "description": "田七的精华部分，恢复生命150 真气50。",
+    "eventId": 0,
+    "data": {
+      "hp": 150,
+      "mp": 50,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 19,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 19,
+    "name": "千里飘",
+    "buyPrice": 800,
+    "sellPrice": 400,
+    "description": "以多种极品鲜果酿制五十年的美酒，打开之后香飘千里。可解毒，HpMp+180。",
+    "eventId": 0,
+    "data": {
+      "hp": 180,
+      "mp": 180,
+      "aniIndex": 1,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 9,
+    "index": 20,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 20,
+    "name": "雌雄葫芦",
+    "buyPrice": 2000,
+    "sellPrice": 1000,
+    "description": "相传八仙之一的张果老亲手做的冰糖葫芦，一串雌的、一串雄的、故称[雌雄葫芦]。HpMp+400。",
+    "eventId": 0,
+    "data": {
+      "hp": 400,
+      "mp": 400,
+      "aniIndex": 1,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 9,
+    "index": 21,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 21,
+    "name": "魔王须",
+    "buyPrice": 140,
+    "sellPrice": 72,
+    "description": "形如魔鬼的胡须一样杂乱，颜色为赤褐色，可解毒。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 9,
+    "index": 22,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 22,
+    "name": "天山盐",
+    "buyPrice": 150,
+    "sellPrice": 75,
+    "description": "产于天山岩石洞的一层薄薄的东西，经过加工可调味，又可解毒。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 9,
+    "index": 23,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 23,
+    "name": "华山针树叶",
+    "buyPrice": 135,
+    "sellPrice": 60,
+    "description": "生长在华山顶峰的针树的叶子，叶子狭长如剑，可解毒。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 9,
+    "index": 24,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 24,
+    "name": "净衣符",
+    "buyPrice": 360,
+    "sellPrice": 180,
+    "description": "具有祛病、驱邪的法力、可全体解毒。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniIndex": 11,
+      "bitMask": 24
+    }
+  },
+  {
+    "type": 9,
+    "index": 25,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 25,
+    "name": "菊黄散",
+    "buyPrice": 600,
+    "sellPrice": 320,
+    "description": "极品菊花的花瓣提炼出来的黄颜色的东西，可解毒，hp+350。",
+    "eventId": 0,
+    "data": {
+      "hp": 350,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 9,
+    "index": 26,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 26,
+    "name": "清凉油",
+    "buyPrice": 100,
+    "sellPrice": 20,
+    "description": "抹在脑门上，具有消毒解困的效果，使人头脑清醒。可解除乱、眠。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 5
+    }
+  },
+  {
+    "type": 9,
+    "index": 27,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 27,
+    "name": "定心符",
+    "buyPrice": 120,
+    "sellPrice": 60,
+    "description": "具有安气宁神、增加定力、防止走火入魔之功效。可解乱、封、眠。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniIndex": 1,
+      "bitMask": 7
+    }
+  }
+  ]
+}

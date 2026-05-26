@@ -1,0 +1,65 @@
+{
+  "type": 10,
+  "goods": [
+  {
+    "type": 10,
+    "index": 1,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 1,
+    "name": "灵芝草",
+    "buyPrice": 222,
+    "sellPrice": 444,
+    "description": "生长在昆仑山上的仙草，有起死回生的功效。Hp恢复15%。",
+    "eventId": 0,
+    "data": {
+      "percent": 15
+    }
+  },
+  {
+    "type": 10,
+    "index": 2,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 2,
+    "name": "幽灵灯",
+    "buyPrice": 444,
+    "sellPrice": 300,
+    "description": "用此灯再施以法术可以和黑白无尝交涉，释放已被带走的魂魄。Hp恢复30%。",
+    "eventId": 0,
+    "data": {
+      "percent": 30
+    }
+  },
+  {
+    "type": 10,
+    "index": 3,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 3,
+    "name": "悔罪汤",
+    "buyPrice": 888,
+    "sellPrice": 400,
+    "description": "服用之后消除死者平生所犯之罪孽，使死者复活hp恢复50%。",
+    "eventId": 0,
+    "data": {
+      "percent": 50
+    }
+  },
+  {
+    "type": 10,
+    "index": 4,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 4,
+    "name": "原始延命香",
+    "buyPrice": 8000,
+    "sellPrice": 4000,
+    "description": "以八十一种顶级精秘药，用三冥真火炼九九八十一天而成，可引住魂魄，滋养肉体延长寿命Hp恢复100%。",
+    "eventId": 0,
+    "data": {
+      "percent": 100
+    }
+  }
+  ]
+}

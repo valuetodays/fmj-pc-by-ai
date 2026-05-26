@@ -116,7 +116,14 @@ public final class DatLib {
 	 * @return 资源对象，不存在则返回<code>null</code>
 	 */
 	public ResBase getRes(int resType, int type, int index) {
-		ResBase rtn = null;
+		// 优先从 JSON 资源提供者加载（结构化数据）
+		ResBase rtn = JsonResourceProvider.getInstance().getRes(resType, type, index);
+		if (rtn != null) {
+			return rtn;
+		}
+
+		// JSON 中未找到，回退到原始的 DAT.LIB 二进制数据
+		rtn = null;
 		int offset = getDataOffset(resType, type, index);
 
 		if (offset != -1) {

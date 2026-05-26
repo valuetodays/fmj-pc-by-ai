@@ -1,0 +1,200 @@
+{
+  "type": 14,
+  "goods": [
+  {
+    "type": 14,
+    "index": 1,
+    "enable": 0,
+    "sumRound": 9,
+    "imageIndex": 1,
+    "name": "蔡婆婆的信",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "蔡婆婆寄给万锁开的信。",
+    "eventId": 2004,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 2,
+    "enable": 0,
+    "sumRound": 9,
+    "imageIndex": 2,
+    "name": "万能钥匙",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "建业城中开锁能手“万锁开”制造的，可打开加锁的宝箱。由于做工问题，使用一次后会毁掉。",
+    "eventId": 2005,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 3,
+    "enable": 0,
+    "sumRound": 9,
+    "imageIndex": 3,
+    "name": "老孟情书",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "住在忘忧村的老孟写给他在建业打工的男朋友阿军的情书。",
+    "eventId": 2006,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 4,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 2,
+    "name": "金色钥匙",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "可以打开李虎家东厢房的钥匙。",
+    "eventId": 2007,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 5,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 4,
+    "name": "虫子卡片",
+    "buyPrice": 0,
+    "sellPrice": 8000,
+    "description": "神秘卡片之一，用途不明。",
+    "eventId": 0,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 6,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 5,
+    "name": "小鬼卡片",
+    "buyPrice": 0,
+    "sellPrice": 8000,
+    "description": "神秘卡片之二，用途不明。",
+    "eventId": 0,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 7,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 6,
+    "name": "不点卡片",
+    "buyPrice": 0,
+    "sellPrice": 8000,
+    "description": "神秘卡片之三，用途不明。",
+    "eventId": 0,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 8,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 7,
+    "name": "苍龙之精",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "四象之一，苍龙的精魄。",
+    "eventId": 2011,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 9,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 8,
+    "name": "白虎之精",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "四象之一，白虎的精魄。",
+    "eventId": 2012,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 10,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 9,
+    "name": "朱雀之精",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "四象之一，朱雀的精魄。",
+    "eventId": 2013,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 11,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 10,
+    "name": "玄武之精",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "四象之一，玄武的精魄。",
+    "eventId": 2014,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 12,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 11,
+    "name": "无机乾坤剑",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "你不能装备的超级好剑，气死你。哈哈……",
+    "eventId": 0,
+    "data": {
+      "_note": "no extra data"
+    }
+  },
+  {
+    "type": 14,
+    "index": 13,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 12,
+    "name": "混元金斗",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "可以吸取任何生命体魂魄的仙家至宝。",
+    "eventId": 0,
+    "data": {
+      "_note": "no extra data"
+    }
+  }
+  ]
+}

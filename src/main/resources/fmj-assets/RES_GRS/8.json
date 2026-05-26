@@ -1,0 +1,575 @@
+{
+  "type": 8,
+  "goods": [
+  {
+    "type": 8,
+    "index": 1,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 1,
+    "name": "梅花镖",
+    "buyPrice": 280,
+    "sellPrice": 140,
+    "description": "形如梅花的暗器，敌人hp-90。",
+    "eventId": 0,
+    "data": {
+      "hp": 90,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 2,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 2,
+    "name": "飞蝗石",
+    "buyPrice": 700,
+    "sellPrice": 350,
+    "description": "江湖中人常用暗器。伤敌150。",
+    "eventId": 0,
+    "data": {
+      "hp": 150,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 3,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 3,
+    "name": "降魔符",
+    "buyPrice": 700,
+    "sellPrice": 350,
+    "description": "江湖道士专门用来对付法力较小的妖魔鬼怪的灵符。伤敌150。",
+    "eventId": 0,
+    "data": {
+      "hp": 150,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 4,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 4,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 4,
+    "name": "袖里剑",
+    "buyPrice": 1500,
+    "sellPrice": 750,
+    "description": "暗藏在衣袖中的飞剑。伤敌250。",
+    "eventId": 0,
+    "data": {
+      "hp": 250,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 5,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 5,
+    "name": "寒铁钉",
+    "buyPrice": 1600,
+    "sellPrice": 800,
+    "description": "精铁打造、三寸长的铁针是很锋利的暗器。敌人hp-250。",
+    "eventId": 0,
+    "data": {
+      "hp": 250,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 6,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 6,
+    "name": "穿心镖",
+    "buyPrice": 3200,
+    "sellPrice": 1600,
+    "description": "相传此物以火焰山山底的热铁打造，可穿过蜘蛛的心。敌人Hp-400。",
+    "eventId": 0,
+    "data": {
+      "hp": 400,
+      "mp": 0,
+      "aniType": 0,
+      "aniIndex": 0,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 7,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 7,
+    "name": "旋魂铊",
+    "buyPrice": 4800,
+    "sellPrice": 2400,
+    "description": "此物青光闪闪，旋转极快伤人于无形之中。敌方全体hp-300。",
+    "eventId": 0,
+    "data": {
+      "hp": 300,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 16
+    }
+  },
+  {
+    "type": 8,
+    "index": 8,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 8,
+    "name": "唤风符",
+    "buyPrice": 1000,
+    "sellPrice": 500,
+    "description": "向风婆要风的符咒。",
+    "eventId": 0,
+    "data": {
+      "hp": 170,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 32,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 9,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 9,
+    "name": "召雷符",
+    "buyPrice": 1000,
+    "sellPrice": 500,
+    "description": "向雷神唤雷的法术符咒。",
+    "eventId": 0,
+    "data": {
+      "hp": 150,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 242,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 10,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 10,
+    "name": "宇冰符",
+    "buyPrice": 1200,
+    "sellPrice": 600,
+    "description": "可以把水很快结成冰、攻击敌人的符咒。",
+    "eventId": 0,
+    "data": {
+      "hp": 160,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 43,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 11,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 11,
+    "name": "囤土符",
+    "buyPrice": 1800,
+    "sellPrice": 900,
+    "description": "可以移动土的法术的符咒。",
+    "eventId": 0,
+    "data": {
+      "hp": 180,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 44,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 12,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 12,
+    "name": "狱火符",
+    "buyPrice": 1400,
+    "sellPrice": 700,
+    "description": "可以将火运用自如的法术符咒。",
+    "eventId": 0,
+    "data": {
+      "hp": 200,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 7,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 13,
+    "enable": 0,
+    "sumRound": 3,
+    "imageIndex": 13,
+    "name": "青蛇卵",
+    "buyPrice": 320,
+    "sellPrice": 160,
+    "description": "毒蛇的卵，可能产生2回合毒效果。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 8,
+    "index": 14,
+    "enable": 0,
+    "sumRound": 2,
+    "imageIndex": 14,
+    "name": "童尸肉",
+    "buyPrice": 320,
+    "sellPrice": 160,
+    "description": "童年僵尸身上的肉，可能产生2回合毒效果。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 0,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 8,
+    "index": 15,
+    "enable": 0,
+    "sumRound": 2,
+    "imageIndex": 15,
+    "name": "红蝎卵",
+    "buyPrice": 320,
+    "sellPrice": 160,
+    "description": "毒蝎的卵，可能产生2回合毒效果。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 8,
+    "index": 16,
+    "enable": 0,
+    "sumRound": 2,
+    "imageIndex": 16,
+    "name": "蜘蛛卵",
+    "buyPrice": 320,
+    "sellPrice": 16,
+    "description": "毒蜘蛛的卵，可能产生2回合毒效果。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 8,
+    "index": 17,
+    "enable": 0,
+    "sumRound": 2,
+    "imageIndex": 17,
+    "name": "毒铁菱",
+    "buyPrice": 800,
+    "sellPrice": 400,
+    "description": "带毒的暗器，被伤到者虽不会立即毙命，但若延误医治的话，则必死无疑。伤敌80，可能产生2回合毒效果。",
+    "eventId": 0,
+    "data": {
+      "hp": 80,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 8,
+    "index": 18,
+    "enable": 0,
+    "sumRound": 5,
+    "imageIndex": 18,
+    "name": "七步蛇毒",
+    "buyPrice": 1800,
+    "sellPrice": 900,
+    "description": "一种生长于边关大漠毒蛇的毒。可是敌人产生5回合中毒状态。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 8
+    }
+  },
+  {
+    "type": 8,
+    "index": 19,
+    "enable": 0,
+    "sumRound": 5,
+    "imageIndex": 19,
+    "name": "六毒蚀脏粉",
+    "buyPrice": 3000,
+    "sellPrice": 1500,
+    "description": "以六种不同的有毒动物炼制而成，可使敌方全体中毒5回合。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 24
+    }
+  },
+  {
+    "type": 8,
+    "index": 20,
+    "enable": 0,
+    "sumRound": 5,
+    "imageIndex": 20,
+    "name": "蚀毒砂",
+    "buyPrice": 3600,
+    "sellPrice": 1800,
+    "description": "以六毒蚀脏粉配以铁砂。伤害全体敌人150。可能5回合中毒效果。",
+    "eventId": 0,
+    "data": {
+      "hp": 150,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 24
+    }
+  },
+  {
+    "type": 8,
+    "index": 21,
+    "enable": 0,
+    "sumRound": 3,
+    "imageIndex": 21,
+    "name": "勾魂散",
+    "buyPrice": 1800,
+    "sellPrice": 900,
+    "description": "打开瓶塞摇一摇使其随着空气传播出去，可昏迷敌人使其混乱3回合。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 4
+    }
+  },
+  {
+    "type": 8,
+    "index": 22,
+    "enable": 0,
+    "sumRound": 5,
+    "imageIndex": 22,
+    "name": "迷君杉",
+    "buyPrice": 2200,
+    "sellPrice": 1100,
+    "description": "中此毒者，像被女妖迷住一般，不分敌我，混乱5回合。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 4
+    }
+  },
+  {
+    "type": 8,
+    "index": 23,
+    "enable": 0,
+    "sumRound": 5,
+    "imageIndex": 23,
+    "name": "缠魂丝",
+    "buyPrice": 2200,
+    "sellPrice": 1100,
+    "description": "千年蜘蛛的毒丝。可使人混乱5回合。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 4
+    }
+  },
+  {
+    "type": 8,
+    "index": 24,
+    "enable": 0,
+    "sumRound": 3,
+    "imageIndex": 24,
+    "name": "定魂旗",
+    "buyPrice": 800,
+    "sellPrice": 400,
+    "description": "将人的魂魄定在体内3回合，不能施展法术。咒封3回合。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 2
+    }
+  },
+  {
+    "type": 8,
+    "index": 25,
+    "enable": 0,
+    "sumRound": 5,
+    "imageIndex": 25,
+    "name": "缚龙索",
+    "buyPrice": 1000,
+    "sellPrice": 500,
+    "description": "原本是天界用来捆绑恶龙的绳索，不知被谁偷盗后卖到了人间。咒封5回合。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 2
+    }
+  },
+  {
+    "type": 8,
+    "index": 26,
+    "enable": 0,
+    "sumRound": 3,
+    "imageIndex": 26,
+    "name": "太极符",
+    "buyPrice": 3600,
+    "sellPrice": 1800,
+    "description": "具有和太极符法相同的作用。伤敌350、咒封3回合。",
+    "eventId": 0,
+    "data": {
+      "hp": 350,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 14,
+      "bitMask": 2
+    }
+  },
+  {
+    "type": 8,
+    "index": 27,
+    "enable": 0,
+    "sumRound": 3,
+    "imageIndex": 27,
+    "name": "七杳草根",
+    "buyPrice": 800,
+    "sellPrice": 400,
+    "description": "生长于无情谷，花为碧绿色，一但洒点水、便会香气宜人，闻到会使人昏睡3回合。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 1
+    }
+  },
+  {
+    "type": 8,
+    "index": 28,
+    "enable": 0,
+    "sumRound": 5,
+    "imageIndex": 28,
+    "name": "火毛虫",
+    "buyPrice": 1200,
+    "sellPrice": 600,
+    "description": "生长在火焰山附近的一种小虫，可以用来攻击敌人。可使敌人昏睡5回合。",
+    "eventId": 0,
+    "data": {
+      "hp": 120,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 1
+    }
+  },
+  {
+    "type": 8,
+    "index": 29,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 29,
+    "name": "罗喉针",
+    "buyPrice": 1500,
+    "sellPrice": 700,
+    "description": "铁制钢针，尾端系以灵蛊蚕丝，可吸取敌人hp180。",
+    "eventId": 0,
+    "data": {
+      "hp": -32588,
+      "mp": 0,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 0
+    }
+  },
+  {
+    "type": 8,
+    "index": 30,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 30,
+    "name": "石矶珠",
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "description": "神秘物品之一，相传和女娲炼石补天有关的一件东西，功用不详。",
+    "eventId": 0,
+    "data": {
+      "hp": 0,
+      "mp": -32518,
+      "aniType": 2,
+      "aniIndex": 3,
+      "bitMask": 0
+    }
+  }
+  ]
+}

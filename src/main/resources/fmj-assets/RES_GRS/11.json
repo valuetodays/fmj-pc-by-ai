@@ -1,0 +1,320 @@
+{
+  "type": 11,
+  "goods": [
+  {
+    "type": 11,
+    "index": 1,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 1,
+    "name": "枸杞仙果",
+    "buyPrice": 0,
+    "sellPrice": 700,
+    "description": "增大生命上限5点。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 5,
+      "def": 0,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 2,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 2,
+    "name": "八仙石",
+    "buyPrice": 0,
+    "sellPrice": 640,
+    "description": "八仙洞中仙石，可增强防御2点。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 2,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 3,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 3,
+    "name": "霸王花",
+    "buyPrice": 0,
+    "sellPrice": 670,
+    "description": "食用者武术上限+2。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 0,
+      "atk": 2,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 4,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 4,
+    "name": "千年朱果",
+    "buyPrice": 0,
+    "sellPrice": 400,
+    "description": "钟山朱红树上所结的仙果。可提高吉运1点。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 0,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 1
+    }
+  },
+  {
+    "type": 11,
+    "index": 5,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 5,
+    "name": "金鍪",
+    "buyPrice": 0,
+    "sellPrice": 800,
+    "description": "三清山上一种名贵的药材，可增强灵力2点。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 0,
+      "atk": 0,
+      "lingli": 2,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 6,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 6,
+    "name": "无忧仙丹",
+    "buyPrice": 0,
+    "sellPrice": 1000,
+    "description": "太上老君的灵丹之一，可提升生命上限4点，真气上限4点。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 4,
+      "hpMax": 4,
+      "def": 0,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 7,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 7,
+    "name": "珠仙草",
+    "buyPrice": 0,
+    "sellPrice": 1200,
+    "description": "红色叶子，三大仙草之一，提升灵力3点。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 0,
+      "atk": 0,
+      "lingli": 3,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 8,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 8,
+    "name": "玄冥草",
+    "buyPrice": 0,
+    "sellPrice": 1200,
+    "description": "黑色叶子，三大仙草之二，提升身法3点。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 0,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 3,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 9,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 9,
+    "name": "无妄草",
+    "buyPrice": 0,
+    "sellPrice": 1200,
+    "description": "黄色叶子，三大仙草之三，提升吉运3点。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 0,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 3
+    }
+  },
+  {
+    "type": 11,
+    "index": 10,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 10,
+    "name": "佛天圆",
+    "buyPrice": 0,
+    "sellPrice": 400,
+    "description": "有成就的高僧西归后、遗体火化时结成的形如圆球带有灵性的东西。最大真气值+2。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 2,
+      "hpMax": 0,
+      "def": 0,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 11,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 11,
+    "name": "天玉菩提",
+    "buyPrice": 0,
+    "sellPrice": 600,
+    "description": "天山菩提树的树种籽，八十年才结一次籽。最大真气值+3。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 3,
+      "hpMax": 0,
+      "def": 0,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 12,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 12,
+    "name": "玉银杏宝",
+    "buyPrice": 0,
+    "sellPrice": 300,
+    "description": "东华上仙居后院的一棵银杏树所结的果子。最大体力值+3。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 3,
+      "def": 0,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 13,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 13,
+    "name": "罗汉笑",
+    "buyPrice": 0,
+    "sellPrice": 600,
+    "description": "塞北药王‘笑天下’亲手培育的奇药。灵力最大值+2。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 0,
+      "atk": 0,
+      "lingli": 2,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 14,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 14,
+    "name": "寒冰蛙",
+    "buyPrice": 0,
+    "sellPrice": 1200,
+    "description": "世间罕见，只生长在太白山寒冰洞的洞底。武术上限+2，防御上限+2。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 0,
+      "hpMax": 0,
+      "def": 2,
+      "atk": 2,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 0
+    }
+  },
+  {
+    "type": 11,
+    "index": 15,
+    "enable": 0,
+    "sumRound": 0,
+    "imageIndex": 15,
+    "name": "金毛虫",
+    "buyPrice": 0,
+    "sellPrice": 500,
+    "description": "浑身通红并付有灵气的一种小甲虫，人服食后可增加真气2。",
+    "eventId": 0,
+    "data": {
+      "mpMax": 2,
+      "hpMax": 0,
+      "def": 0,
+      "atk": 0,
+      "lingli": 0,
+      "speed": 0,
+      "luck": 0
+    }
+  }
+  ]
+}

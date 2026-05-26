@@ -1,0 +1,113 @@
+{
+  "type": 12,
+  "goods": [
+  {
+    "type": 12,
+    "index": 1,
+    "enable": 0,
+    "sumRound": 3,
+    "imageIndex": 1,
+    "name": "生龙活虎丹",
+    "buyPrice": 750,
+    "sellPrice": 375,
+    "description": "使用后犹如生龙活虎般，增强攻击力。攻击提升3回合。",
+    "eventId": 0,
+    "data": {
+      "defPercent": 0,
+      "atkPercent": 50,
+      "speedPercent": 0,
+      "forAll": false
+    }
+  },
+  {
+    "type": 12,
+    "index": 2,
+    "enable": 0,
+    "sumRound": 5,
+    "imageIndex": 2,
+    "name": "龟甲散",
+    "buyPrice": 800,
+    "sellPrice": 400,
+    "description": "使用后如身覆龟甲，刀枪不入。防御提升5回合。",
+    "eventId": 0,
+    "data": {
+      "defPercent": 50,
+      "atkPercent": 0,
+      "speedPercent": 0,
+      "forAll": false
+    }
+  },
+  {
+    "type": 12,
+    "index": 3,
+    "enable": 0,
+    "sumRound": 4,
+    "imageIndex": 3,
+    "name": "飘飘香",
+    "buyPrice": 900,
+    "sellPrice": 450,
+    "description": "可以释放出一种特异的香味，使人产生飘飘欲仙的感觉，故又名“欲仙丹”。身法提升4回合。",
+    "eventId": 0,
+    "data": {
+      "defPercent": 0,
+      "atkPercent": 0,
+      "speedPercent": 50,
+      "forAll": false
+    }
+  },
+  {
+    "type": 12,
+    "index": 4,
+    "enable": 0,
+    "sumRound": 5,
+    "imageIndex": 4,
+    "name": "战狂石",
+    "buyPrice": 1500,
+    "sellPrice": 750,
+    "description": "使用后，使人进入暴劲状态，攻击力增强一倍，持续5回合。",
+    "eventId": 0,
+    "data": {
+      "defPercent": 0,
+      "atkPercent": 100,
+      "speedPercent": 0,
+      "forAll": false
+    }
+  },
+  {
+    "type": 12,
+    "index": 5,
+    "enable": 0,
+    "sumRound": 7,
+    "imageIndex": 5,
+    "name": "子金光符",
+    "buyPrice": 1300,
+    "sellPrice": 650,
+    "description": "符咒显灵后、金光四射刺眼非凡，使敌人看不清自己。增加防御一倍，持续七回合。",
+    "eventId": 0,
+    "data": {
+      "defPercent": 100,
+      "atkPercent": 0,
+      "speedPercent": 0,
+      "forAll": false
+    }
+  },
+  {
+    "type": 12,
+    "index": 6,
+    "enable": 0,
+    "sumRound": 9,
+    "imageIndex": 6,
+    "name": "飓行草",
+    "buyPrice": 1200,
+    "sellPrice": 600,
+    "description": "在海外的瀛洲仙岛的阴暗处生长一种草，使用后犹如乘飓风而行，身法提升一倍，持续9回合。",
+    "eventId": 0,
+    "data": {
+      "defPercent": 0,
+      "atkPercent": 0,
+      "speedPercent": 100,
+      "forAll": false
+    }
+  }
+  ]
+}
